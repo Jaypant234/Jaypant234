@@ -1,6 +1,6 @@
 # Hi 👋, I'm JAY PANT
 
-### A passionate Python developer
+### Machine Learning Enthusiast | Python Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaypant234&label=Profile views&color=0e75b6&style=flat" alt="Jaypant234" /> </p>
 
